@@ -3,8 +3,8 @@ Binary search tree stages,
 
 ------------Binary search tree-------------
 
-given list = [7,5,1,8,3,6,0,9,4,2]
-root 5 left 1 right 7
+given list = [7,5,1,8,3,6,0,9,4,2] /n
+root 5 left 1 right 7 /n
 node 1 left 0 right 3
 node 0 left none right none
 node 3 left 2 right 4
